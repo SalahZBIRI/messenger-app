@@ -1,4 +1,3 @@
-//Projet_PSE_ZBIRI_IDJAHA
 
 
 Le projet consiste en une messagerie permettant à plusieurs clients de se connecter et d'envoyer des messages. Le nom du client est affiché avant chaque message.
