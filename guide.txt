@@ -1,0 +1,30 @@
+Bienvenue dans l'application Ma Messagerie, l'une des applications de messagerie les plus attrayantes au monde. Voici un guide pour vous aider à utiliser cette application :
+
+
+    Envoi de messages à tous les autres utilisateurs :
+        Il vous suffit d'écrire votre message et d'appuyer sur la touche "Entrée" pour l'envoyer à tous les autres utilisateurs.
+
+
+    Envoi de messages en privé :
+        Utilisez la commande suivante : "@destinataire message" pour envoyer un message privé à un destinataire spécifique.
+
+
+    Utilisation d'emojis :
+        Voici comment utiliser des emojis :
+        <1 -----> 😡
+        <2 -----> 😭
+        <3 -----> ❤️   
+        <4 -----> 😂
+        
+
+    Mentionner un ami et aimer son message :
+    
+        Pour liker le message d'un ami, utilisez la commande suivante : "@ton_ami >like".
+
+    Mentionner un ami et ne pas aimer son message :
+    
+        Pour ne pas aimer le message d'un ami, utilisez la commande suivante : "@ton_ami >dislike".
+        
+
+N'hésitez pas à explorer davantage l'application Ma Messagerie et à découvrir ses fonctionnalités pour une expérience de messagerie plus enrichissante !
+
